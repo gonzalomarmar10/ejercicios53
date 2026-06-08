@@ -1,0 +1,14 @@
+
+3.-
+	a) Hay tres ramas
+	b) La rama principal es la rama main
+	c) La rama más evolucionada es la rama master con 12 commits, el último hace 2 meses.
+
+
+5.-	String[] listadoPakemon = {"Staryu", "Mew", "Pikachu", "Charmander", "Lapras", "Gyarados"};
+
+
+8.-	Al hacer el Pull habría conflicto y no nos dejaría subirlo.
+	Se resuelve resolviendo el conflicto en local o decidiendo una de las dos opciones, con el riesgo de perder lo avanzado en la otra.
+
+9.-	https://github.com/gonzalomarmar10/ejercicios53
